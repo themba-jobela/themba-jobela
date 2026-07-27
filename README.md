@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Themba Jobela 👋
 
-<!--
-**themba-jobela/themba-jobela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Bachelor of Information Technology Student at North-West University
 
-Here are some ideas to get you started:
+📍 Sasolburg, South Africa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Open to Graduate Opportunities
+
+---
+
+## 👨‍💻 About Me
+
+I am a final-year Bachelor of Information Technology student with a strong interest in networking, infrastructure, database systems and software development.
+
+I enjoy solving technical problems, learning new technologies and building practical IT solutions.
+
+---
+
+## 🛠 Technical Skills
+
+- Cisco Packet Tracer
+- Oracle SQL
+- Java
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Networking
+- Database Design
+
+---
+
+## 🚀 Current Projects
+
+- 🌐 Personal Portfolio Website
+- 🗄 Oracle Database Management System
+- 🌍 Network Infrastructure Design
+- 💻 Java Programming Projects
+
+---
+
+## 🎯 Career Objective
+
+I am currently seeking graduate opportunities where I can apply my technical knowledge while continuing to grow professionally within the Information Technology industry.
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn *(Coming Soon)*
+
+🌐 Portfolio *(Coming Soon)*
+
+📧 Email: thembajobela001@gmail.com
