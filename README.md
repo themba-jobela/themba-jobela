@@ -48,8 +48,10 @@ I am currently seeking graduate opportunities where I can apply my technical kno
 
 ## 📫 Connect With Me
 
-💼 LinkedIn *(Coming Soon)*
+💼 LinkedIn: https://www.linkedin.com/in/themba-jobela-230465363/
 
 🌐 Portfolio *(Coming Soon)*
 
 📧 Email: thembajobela001@gmail.com
+
+Portfolio updated.
