@@ -1,4 +1,4 @@
-# Hi, I'm Themba Jobela 👋
+# Hi, I'm Themba Jobela 
 
 🎓 Final-Year Bachelor of Information Technology Student at North-West University
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a final-year Bachelor of Information Technology student with a strong interest in networking, infrastructure, database systems and software development.
 
@@ -31,22 +31,22 @@ I enjoy solving technical problems, learning new technologies and building pract
 
 ---
 
-## 🚀 Current Projects
+##  Current Projects
 
-- 🌐 Personal Portfolio Website
-- 🗄 Oracle Database Management System
-- 🌍 Network Infrastructure Design
-- 💻 Java Programming Projects
+-  Personal Portfolio Website
+-  Oracle Database Management System
+-  Network Infrastructure Design
+-  Java Programming Projects
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 
 I am currently seeking graduate opportunities where I can apply my technical knowledge while continuing to grow professionally within the Information Technology industry.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/themba-jobela-230465363/
 
