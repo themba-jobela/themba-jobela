@@ -16,7 +16,7 @@ I enjoy solving technical problems, learning new technologies and building pract
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 - Cisco Packet Tracer
 - Oracle SQL
@@ -48,10 +48,10 @@ I am currently seeking graduate opportunities where I can apply my technical kno
 
 ##  Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/themba-jobela-230465363/
+ LinkedIn: https://www.linkedin.com/in/themba-jobela-230465363/
 
-🌐 Portfolio : https://themba-jobela.github.io/Portfolio-website/
+ Portfolio : https://themba-jobela.github.io/Portfolio-website/
 
-📧 Email: thembajobela001@gmail.com
+ Email: thembajobela001@gmail.com
 
 Portfolio updated.
